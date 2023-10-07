@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268695774378",
+    "project_id": "mychatapp-9e962",
+    "storage_bucket": "mychatapp-9e962.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268695774378:android:769c61a113cfb1af161cd3",
+        "android_client_info": {
+          "package_name": "com.marva.my_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApf0GIpzKLSOXDmN7MTLXtzd4eouZYZQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
